@@ -38,5 +38,6 @@ Collection of personal and team projects I have worked on
 
 ● Pulled micro-census data to create a proxy dataset for users’ demographics using **Pandas** and **GeoPandas**
 
-● Modeled referrals with proxy demographic data to better understand benefit programs’ usage and shortcomings in **Tableau**
+● Modeled referrals with proxy demographic data to better understand benefit programs’ usage and shortcomings in **Tableau** 
+
 *NOTE: Cannot publish code from this project due to user privacy. Please ask if you want more project details.*
