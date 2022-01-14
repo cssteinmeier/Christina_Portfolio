@@ -17,17 +17,7 @@ The next step of the project is to estimate carbon emissions and carbon storage 
 ### EcoDataLab
 *June 2021-August 2021*
 
-● Pulled Census data from **SocialExplorer**
-
-● Conducted feature engineering to match the structure of the National Household Travel Survey data using **Pandas** and **Numpy**
-
-● Trained a **multiple linear regression model** to predict the average vehicle miles traveled for a given census tract
-
-● Used **stepwise regression** to determine statistically significant variables
-
-● Evaluated and tuned model using Adjusted R-squared value 
-
-● **Results:** multiple linear regression model that predicts the average vehicle miles traveled of a resident in a given census tract with an Adjusted R-squared of 0.3096
+I worked with **EcoDataLab** to create a multiple linear regression model that predicts the average vehicle miles traveled of a resident in a given census tract. We did this by pulling Census data from **SocialExplorer** and conducting data preprocessing and feature engineering to match the structure of the National Household Survey Data using **Pandas** and **NumPy**. Once that data was processed, we trained our model, evaluated and tuned our model using **stepwise regression**. The resulting model has an **adjusted R-squared** value of 0.3096.
 
 *NOTE: Cannot publish code from this project due to project privacy. Please ask if you want more project details.*
 
@@ -35,10 +25,6 @@ The next step of the project is to estimate carbon emissions and carbon storage 
 ### UC Berkeley Data Discover Program
 *January 2021-May 2021*
 
-● Worked in partnership with United Ways of California and Alluma to explore public benefit referral programs in Los Angeles County
-
-● Pulled micro-census data to create a proxy dataset for users’ demographics using **Pandas** and **GeoPandas**
-
-● Modeled referrals with proxy demographic data to better understand benefit programs’ usage and shortcomings in **Tableau** 
+I worked in partnership with United Ways of California and Alluma to explore public benefit referral programs in Los Angeles County. We began by pulling micro-census data to create a proxy dataset for users’ demographics using **Pandas** and **GeoPandas**. Then, we modeled referrals with proxy demographic data to better understand benefit programs’ usage and shortcomings in **Tableau**. Resulting figures are shown below. 
 
 *NOTE: Cannot publish code from this project due to user privacy. Please ask if you want more project details.*
