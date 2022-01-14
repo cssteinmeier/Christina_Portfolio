@@ -1,6 +1,6 @@
 # Christina Steinmeier's Portfolio
 Collection of personal and team projects I have worked on
-## Modeling Carbon Footprint for California and China's Wood Imports
+## Carbon Footprint for California and China's Wood Imports
 ### UC Berkeley Potts Lab Group
 *June 2021-present*
 
@@ -12,3 +12,18 @@ Collection of personal and team projects I have worked on
 
 ● Estimate carbon emissions and carbon storage over the next 100 years from these imports using models from literature review
 
+## Vehicle Miles Traveled Across Census Tracts in The United States
+### EcoDataLab
+*June 2021-August 2021*
+
+● Pulled Census data from **SocialExplorer**
+
+● Conducted feature engineering to match the structure of the National Household Travel Survey data using **Pandas** and **Numpy**
+
+● Trained a **multiple linear regression model** to predict the average vehicle miles traveled for a given census tract
+
+● Used **stepwise regression** to determine statistically significant variables
+
+● Evaluated and tuned model using Adjusted R-squared value 
+
+● **Results:** multiple linear regression model that predicts the average vehicle miles traveled of a resident in a given census tract with an Adjusted R-squared of 0.3096
