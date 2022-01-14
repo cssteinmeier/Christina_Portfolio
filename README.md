@@ -1,5 +1,5 @@
 # Christina Steinmeier's Portfolio
-Collection of personal and team projects I have worked on
+Collection of personal and team projects
 ## Carbon Footprint for California and China's Wood Imports
 ### UC Berkeley Potts Lab Group
 *June 2021-present*
