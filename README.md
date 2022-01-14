@@ -8,8 +8,8 @@ The **goal** of this project is to understand the trade flow and model the carbo
 ![alt text](https://github.com/cssteinmeier/Christina_Portfolio/blob/main/Images/Map_Timber_2019.png)
 
 The next step of the project is to estimate carbon emissions and carbon storage over the next 100 years. We used modeled obtained through literature review to make these predictions.
-![alt text](https://github.com/cssteinmeier/Christina_Portfolio/blob/main/Images/Total_Carbon_Emitted_by_Wood_Type.png)
-![alt text](https://github.com/cssteinmeier/Christina_Portfolio/blob/main/Images/Total_Carbon_Sequestered_by_Wood_Type.png)
+![alt text](/Images/Total_Carbon_Emitted_by_Wood_Type.png)
+![alt text](/Images/Total_Carbon_Sequestered_by_Wood_Type.png)
 
 *NOTE: Cannot publish code from this project due to project privacy. Please ask if you want more project details.*
 
