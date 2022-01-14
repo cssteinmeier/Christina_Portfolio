@@ -28,6 +28,7 @@ The next step of the project is to estimate carbon emissions and carbon storage 
 ● Evaluated and tuned model using Adjusted R-squared value 
 
 ● **Results:** multiple linear regression model that predicts the average vehicle miles traveled of a resident in a given census tract with an Adjusted R-squared of 0.3096
+
 *NOTE: Cannot publish code from this project due to project privacy. Please ask if you want more project details.*
 
 ## Explore Public Benefit Referral Programs Data in Los Angeles County
