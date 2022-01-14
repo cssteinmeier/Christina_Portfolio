@@ -25,6 +25,8 @@ I worked with **EcoDataLab** to create a multiple linear regression model that p
 ### UC Berkeley Data Discover Program
 *January 2021-May 2021*
 
-I worked in partnership with United Ways of California and Alluma to explore public benefit referral programs in Los Angeles County. We began by pulling micro-census data to create a proxy dataset for users’ demographics using **Pandas** and **GeoPandas**. Then, we modeled referrals with proxy demographic data to better understand benefit programs’ usage and shortcomings in **Tableau**. Resulting figures are shown below. 
+I worked in partnership with United Ways of California and Alluma to explore public benefit referral programs in Los Angeles County. We began by pulling micro-census data to create a proxy dataset for users’ demographics using **Pandas** and **GeoPandas**. Then, we modeled referrals with proxy demographic data to better understand benefit programs’ usage and shortcomings in **Tableau**. 
+
+[Medium article describing project steps and details](https://wearealluma.medium.com/modeling-community-referral-patterns-a-partnership-with-the-uc-berkeley-data-science-discovery-3ad4ab822259)
 
 *NOTE: Cannot publish code from this project due to user privacy. Please ask if you want more project details.*
