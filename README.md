@@ -13,6 +13,14 @@ The next step of the project is to estimate carbon emissions and carbon storage 
 
 *NOTE: Cannot publish code from this project due to project privacy. Please ask if you want more project details.*
 
+## Neural Collaborative Filtering Recommender System for Movies and Amazon Datasets
+### Class Project - *Data Mining and Analytics*
+*Fall 2021*
+
+My project team and I built two **nuearal collaborative filtering** models using **PyTorch Lighting** to train the models. The first model predicts the probability that a user will interact with a movie based on previos interactions, and the second model predicts the probability that a user will purchase a product on Amazon give previous purchases. We evaluated our models using the **hit ratio**. The movies model performed with a hit ratio of 0.81, and the Amazon model performed with a hit ratio of 0.72. 
+
+*NOTE: Cannot publish code from this project due to class policy. Please ask if you want more project details.*
+
 ## Vehicle Miles Traveled Across Census Tracts in The United States
 ### EcoDataLab
 *June 2021-August 2021*
@@ -20,6 +28,14 @@ The next step of the project is to estimate carbon emissions and carbon storage 
 I worked with **EcoDataLab** to create a multiple linear regression model that predicts the average vehicle miles traveled of a resident in a given census tract. We did this by pulling Census data from **SocialExplorer** and conducting data preprocessing and feature engineering to match the structure of the National Household Survey Data using **Pandas** and **NumPy**. Once that data was processed, we trained our model, evaluated and tuned our model using **stepwise regression**. The resulting model has an **adjusted R-squared** value of 0.3096.
 
 *NOTE: Cannot publish code from this project due to project privacy. Please ask if you want more project details.*
+
+## Gaussian GLM and Decision Tree to Predict Asthma Mortality Rates 
+### Class Project - *Data, Inference, and Decisions*
+*Spring 2021*
+
+My project team and I performed data preprocessing and feature engineering on a dataset of air pollutant concentration and asthma mortality rates. We then used **PyMC3** to train a **Gaussian GLM** and **SkLearn** to train a **decision tree**. Both the models predict the asthma mortality rates. We evaluated the models using **mean suared error loss** and concluded that the GLM performed better.
+
+*NOTE: Cannot publish code from this project due to class policy. Please ask if you want more project details.*
 
 ## Explore Public Benefit Referral Programs Data in Los Angeles County
 ### UC Berkeley Data Discover Program
