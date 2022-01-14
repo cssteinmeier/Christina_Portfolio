@@ -5,7 +5,7 @@ Collection of personal and team projects
 *June 2021-present*
 
 The **goal** of this project is to understand the trade flow and model the carbon footprint of wood products into China and California from 2010-2020. I conducted exploratory data analysis and data cleaning on comprehensive datasets of California’s and China’s wood imports using **Pandas** and **GeoPandas**. After initial cleaning was complete, I created visualizations, using **Matplotlib** and **Plotly**, to better understand the quantities of imports from various countries and the types of wood products being imported. Below shows the analysis for timber, but I did this for lumber, panel, paper, pulp, and furnitfure, as well.
-![alt text](https://github.com/cssteinmeier/Christina_Portfolio/blob/main/Images/Map_Timber_2019.png)
+![alt text](/Images/Map_Timber_2019.png)
 
 The next step of the project is to estimate carbon emissions and carbon storage over the next 100 years. We used modeled obtained through literature review to make these predictions.
 ![alt text](/Images/Total_Carbon_Emitted_by_Wood_Type.png)
