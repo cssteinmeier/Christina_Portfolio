@@ -1,4 +1,6 @@
-This is my readme.
+Chrissy Steinmeier's Portfolio
+
+This is the personal portfolio website for Chrissy Steinmeier, a Data Scientist with a passion for sustainability and environmental justice.
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
