@@ -9,6 +9,8 @@ tools:
   - "read"
   - "search"
   - "edit"
+  - "custom-agent"
+  - "agent"
   
 metadata:
   role: orchestrator
