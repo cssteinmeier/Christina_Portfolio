@@ -5,7 +5,7 @@ description: >
   Each stage must produce a Markdown report committed to the branch and referenced in the PR.
 
 tools:
-  - "custom-agent"   # to invoke Investigator, Planner, Implementor
+  - "runSubagent"   # to invoke Investigator, Planner, Implementor
   - "read"
   - "search"
   - "edit"           # to create/update report files and PR templates/descriptions
