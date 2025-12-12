@@ -4,7 +4,11 @@ description: >
   Orchestrator that MUST execute a fixed pipeline: Investigator → Planner → Implementor.
   Each stage must produce a Markdown report committed to the branch and referenced in the PR.
 
-tools:["runSubagent", "read", "search", "edit"]
+tools:
+  - "runSubagent"
+  - "read"
+  - "search"
+  - "edit"
   
 metadata:
   role: orchestrator
